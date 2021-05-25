@@ -2,3 +2,5 @@
   link: /_site/
 - name: About
   link: /_site/about.html
+- name: Third
+  link: /_site/about.html
